@@ -184,6 +184,7 @@ Some of the suported boards, see yours? Give LiteX-Boards a try!
     ├── machdyne_mozart_ml1
     ├── machdyne_mozart_ml2
     ├── machdyne_mozart_mx1
+    ├── machdyne_mozart_mx2
     ├── machdyne_noir
     ├── machdyne_schoko
     ├── machdyne_vanille
@@ -226,6 +227,7 @@ Some of the suported boards, see yours? Give LiteX-Boards a try!
     ├── scarabhardware_minispartan6
     ├── seeedstudio_spartan_edge_accelerator
     ├── siglent_sds1104xe
+    ├── sipeed_tang_console
     ├── sipeed_tang_nano_20k
     ├── sipeed_tang_nano_4k
     ├── sipeed_tang_nano_9k
